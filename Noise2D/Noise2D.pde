@@ -5,6 +5,7 @@
  * Using 2D noise to create simple texture. 
  */
  //I made this
+ //and then I added this line
 float increment = 0.02;
 
 void setup() {
